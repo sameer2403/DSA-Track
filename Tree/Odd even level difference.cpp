@@ -11,7 +11,6 @@ Output: 60
 
 int getLevelDiff(Node *root)
     {
-      
         //Your code here
        if(root==NULL)
        return 0;
